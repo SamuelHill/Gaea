@@ -6,19 +6,19 @@ This repo will house example code for various gardening applications that utiliz
 
 ### Major sections:
 
-- *Indicators (LEDs/LCDs):*
+- **Indicators (LEDs/LCDs):**
   - Temp
   - Humidity
   - Water level (or pH)
   - Solar radition (time with adequate sun)
   - Flow meter (amount of water used)
   - Soil moisture
-- *Automation (scheduling/'intelligent' systems):*
+- **Automation (scheduling/'intelligent' systems):**
   - Irrigation
   - Fans (or heating)
   - Lights
-- *Storage (formating information from the above sections)*
-- *Web:*
+- **Storage (formating information from the above sections)**
+- **Web:**
   - Json Server
   - Simple webpage
   - Control (simple URL)
